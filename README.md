@@ -6,7 +6,6 @@ When I am up late studying I become super tired and forget to set my morning ala
 - [ ] Alarm rings at needed time
 - [ ] User can stop alarm
 - [ ] Records time it takes to stop alarm repercussion
-<img width="331" height="530" alt="Eseinhower Matric" src="https://github.com/user-attachments/assets/9a6fffa5-893e-4f2c-8586-83cb1a43ebbc" />
 
 ## Tech Stack
 - java  
@@ -17,13 +16,11 @@ When I am up late studying I become super tired and forget to set my morning ala
 
 ## Setup
 ```bash
-git clone https://github.com/you/your-project
-cd your-project
-./install.sh   # or whatever
+to be added
 ```
 ## Usage
 ```bash
-./backup.sh ~/Documents
+to be added
 ```
 ## Roadmap
 - [ ] Ability to check if repercussions completed are correct
@@ -31,6 +28,6 @@ cd your-project
 - [ ] Snooze feature
 - [ ] Increasing repercussions 
 ## Author
-Amaris Gorlick, 
+Amaris Gorlick, https://github.com/amarismgorlick-svg
 
 
